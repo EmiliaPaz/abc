@@ -1,0 +1,7 @@
+# Project directories
+/dist
+/node_modules
+/.parcel-cache
+
+# General
+.DS_STORE
